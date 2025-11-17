@@ -1,6 +1,4 @@
-## Hi there 👋
-
-<img align="right" alt="Coding" width="400" src="/banner.png">
+<img align="right" alt="Coding" width="1400" src="/banner.png">
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ManifoldCode&theme=cobalt&show_icons=true)
 
