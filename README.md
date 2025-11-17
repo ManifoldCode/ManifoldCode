@@ -10,8 +10,9 @@
 
 <div align="center">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ManifoldCode&theme=cobalt&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ManifoldCode&layout=compact&theme=cobalt)](https://github.com/ManifoldCode/github-readme-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ManifoldCode&theme=cobalt&show_icons=true)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=ManifoldCode&theme=cobalt)
 
