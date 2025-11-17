@@ -32,7 +32,7 @@
 
 <div align="center">
 
-<!-- ![Activity Graph](https://activity-graph.herokuapp.com/graph?username=ManifoldCode&theme=react-dark) -->
+![Activity Graph](https://activity-graph.herokuapp.com/graph?username=ManifoldCode&theme=react-dark)
 
 </div>
 
