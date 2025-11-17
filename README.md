@@ -28,14 +28,6 @@
 
 </div>
 
-## 📈 Activity
-
-<div align="center">
-
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=ManifoldCode&theme=react-dark)
-
-</div>
-
 ## 🎯 Currently
 
 - 🔭 Working on **exciting full-stack projects**
